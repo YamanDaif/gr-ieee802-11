@@ -1,9 +1,7 @@
 Hi!
 
 This an IEEE 802.11 a/g/p transceiver for GNU Radio that is fitted for operation
-with Ettus N210s and B210s. Interoperability was tested with many off-the-shelf
-WiFi cards and IEEE 802.11p prototypes. The code can also be used in
-simulations.
+with Ettus N210s, B210s, HackRF and BladeRF.
 
 # Table of Contents
 1. [Development](#development)
