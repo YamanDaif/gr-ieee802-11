@@ -47,7 +47,7 @@ installed with the typical command sequence:
 
 To actually install the blocks do
 
-    git clone https://github.com/YamanDaif/gr-ieee802-11
+    git clone https://github.com/YamanDaif/gr-ieee802-11.git
     cd gr-ieee802-11
     mkdir build
     cd build
