@@ -1,9 +1,5 @@
-Hi!
-
-This an IEEE 802.11 a/g/p transceiver for GNU Radio that is fitted for operation
-with Ettus N210s and B210s. Interoperability was tested with many off-the-shelf
-WiFi cards and IEEE 802.11p prototypes. The code can also be used in
-simulations.
+This is an IEEE 802.11 a/g/p transceiver for GNU Radio written by B.Bloessl and modified to work the HackRF and BladeRF. The code can also be used in
+simulations and integrated with ROS buy publishing to a socket and extract the information using ros service.
 
 
 # Development
@@ -51,7 +47,7 @@ installed with the typical command sequence:
 
 To actually install the blocks do
 
-    git clone git://github.com/bastibl/gr-ieee802-11.git
+    git clone https://github.com/YamanDaif/gr-ieee802-11
     cd gr-ieee802-11
     mkdir build
     cd build
