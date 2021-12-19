@@ -1,5 +1,4 @@
-This is an IEEE 802.11 a/g/p transceiver for GNU Radio written by B.Bloessl and modified to work the HackRF and BladeRF. The code can also be used in
-simulations and integrated with ROS buy publishing to a socket and extract the information using ros service.
+This is an IEEE 802.11 a/g/p transceiver for GNU Radio written by B.Bloessl and modified to work with HackRF One and BladeRF 2.0 micro xA4. The code can also be used in simulations and integrated with ROS buy publishing to a socket and extract the information using ros service.
 
 
 # Development
